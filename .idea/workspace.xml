@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="524e1569-efd5-4b43-bb86-09f640228f85" name="Changes" comment="" />
+    <list default="true" id="524e1569-efd5-4b43-bb86-09f640228f85" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,7 @@
     "Python.calculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dvd",
+    "git-widget-placeholder": "Merging dvd",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730838554022</updated>
-      <workItem from="1730838573267" duration="4536000" />
+      <workItem from="1730838573267" duration="4888000" />
     </task>
     <servers />
   </component>
